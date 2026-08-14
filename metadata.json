@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "Production-ready AI Resume Analyzer & ATS Optimizer with JD keyword matching, deep skills extraction, AI recommendations, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
