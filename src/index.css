@@ -1,0 +1,230 @@
+@import "tailwindcss";
+
+@custom-variant light (&:where(.light, .light *));
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  
+  h1, h2, h3, .font-display {
+    font-family: 'Syne', 'Space Grotesk', sans-serif;
+    letter-spacing: -0.035em;
+  }
+
+  h1 {
+    font-size: clamp(2.25rem, 7.5vw, 4.5rem);
+    line-height: 0.98;
+    font-weight: 800;
+  }
+
+  h2 {
+    font-size: clamp(1.75rem, 5.5vw, 3.25rem);
+    line-height: 1.05;
+    font-weight: 800;
+  }
+
+  h3 {
+    font-size: clamp(1.35rem, 4vw, 2.25rem);
+    line-height: 1.12;
+    font-weight: 700;
+  }
+
+  .font-serif-editorial {
+    font-family: 'Instrument Serif', Georgia, serif;
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Custom marquee keyframes */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: 200%;
+  animation: marquee 35s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Base Styling */
+body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #0c0a09;
+  color: #f5f5f4;
+}
+
+h1, h2, h3, .font-display {
+  font-family: 'Syne', 'Space Grotesk', sans-serif;
+  letter-spacing: -0.035em;
+}
+
+h1 {
+  font-size: clamp(2.25rem, 7.5vw, 4.5rem);
+  line-height: 0.98;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: clamp(1.75rem, 5.5vw, 3.25rem);
+  line-height: 1.05;
+  font-weight: 800;
+}
+
+h3 {
+  font-size: clamp(1.35rem, 4vw, 2.25rem);
+  line-height: 1.12;
+  font-weight: 700;
+}
+
+.font-serif-editorial {
+  font-family: 'Instrument Serif', Georgia, serif;
+  letter-spacing: -0.01em;
+}
+
+/* Glassmorphism & Panel Classes with adaptive Light / Dark mode overrides */
+.glass-panel {
+  background: rgba(28, 25, 23, 0.88);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.light .glass-panel {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(28, 25, 23, 0.08);
+  box-shadow: 0 8px 30px rgba(28, 25, 23, 0.05);
+}
+
+.glass-card {
+  background: linear-gradient(145deg, #1c1917 0%, #151311 100%);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.11);
+  box-shadow: 0 12px 36px -8px rgba(0, 0, 0, 0.5);
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.light .glass-card {
+  background: linear-gradient(145deg, #ffffff 0%, #faf8f5 100%);
+  border: 1px solid rgba(28, 25, 23, 0.09);
+  box-shadow: 0 16px 36px -8px rgba(28, 25, 23, 0.08), 0 4px 12px -2px rgba(28, 25, 23, 0.04);
+}
+
+.glass-card-accent {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(16, 185, 129, 0.05) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+}
+
+.light .glass-card-accent {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(16, 185, 129, 0.08) 100%);
+  border: 1px solid rgba(217, 119, 6, 0.35);
+  box-shadow: 0 16px 36px -8px rgba(217, 119, 6, 0.08);
+}
+
+/* Light mode crisp typography, badges & contrast overrides */
+.light {
+  color-scheme: light;
+  background-color: #faf9f6;
+  color: #1c1917;
+}
+
+.light h1, .light h2, .light h3, .light h4, .light h5, .light h6 {
+  color: #0c0a09 !important;
+}
+
+.light p, .light span, .light label, .light div {
+  color: inherit;
+}
+
+.light .text-slate-100,
+.light .text-slate-200,
+.light .text-slate-300 {
+  color: #1c1917 !important;
+}
+
+.light .text-slate-400,
+.light .text-slate-500 {
+  color: #44403c !important;
+}
+
+.light .text-amber-400 {
+  color: #d97706 !important;
+}
+
+.light .text-emerald-400 {
+  color: #059669 !important;
+}
+
+.light .text-indigo-400 {
+  color: #4f46e5 !important;
+}
+
+.light .text-rose-400 {
+  color: #e11d48 !important;
+}
+
+.light .bg-slate-900,
+.light .bg-slate-950,
+.light .bg-slate-900\/80,
+.light .bg-slate-900\/60,
+.light .bg-slate-900\/40 {
+  background-color: #ffffff !important;
+  color: #1c1917 !important;
+}
+
+.light .border-slate-800,
+.light .border-slate-800\/80,
+.light .border-slate-800\/60 {
+  border-color: #e7e5e4 !important;
+}
+
+/* Custom organic card shapes for broken grid layouts */
+.asym-card-1 {
+  border-radius: 28px 12px 36px 16px;
+}
+
+.asym-card-2 {
+  border-radius: 16px 36px 20px 28px;
+}
+
+.asym-card-3 {
+  border-radius: 32px 18px 24px 38px;
+}
+
+/* Custom glowing ambient Orbs */
+.orb-glow-amber {
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.18) 0%, rgba(245, 158, 11, 0) 70%);
+}
+
+.orb-glow-emerald {
+  background: radial-gradient(circle, rgba(16, 185, 129, 0.18) 0%, rgba(16, 185, 129, 0) 70%);
+}
+
+.orb-glow-indigo {
+  background: radial-gradient(circle, rgba(99, 102, 241, 0.18) 0%, rgba(99, 102, 241, 0) 70%);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.25);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.45);
+}
+
+
