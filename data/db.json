@@ -1,0 +1,1203 @@
+{
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "Alexander Wright",
+      "email": "admin@resumai.com",
+      "role": "admin",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=250",
+      "targetRole": "Senior Staff Engineer / Tech Lead",
+      "createdAt": "2026-07-31T11:56:47.822Z",
+      "passwordHash": "$2a$10$wT0o3Ie1.6wKThP3XnLgvepX6EaT3G4fL1aA8Y0G3R9O1P2Q3R4S5"
+    },
+    {
+      "id": "user-demo",
+      "name": "Elena Rostova",
+      "email": "demo@resumai.com",
+      "role": "user",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=250",
+      "targetRole": "Full Stack Product Engineer",
+      "createdAt": "2026-07-31T11:56:47.823Z",
+      "passwordHash": "$2a$10$wT0o3Ie1.6wKThP3XnLgvepX6EaT3G4fL1aA8Y0G3R9O1P2Q3R4S5"
+    },
+    {
+      "id": "user-1785499583571",
+      "name": "kritagya",
+      "email": "kritagyagupta48@gmail.com",
+      "role": "user",
+      "targetRole": "Software Engineer",
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kritagya",
+      "createdAt": "2026-07-31T12:06:23.571Z",
+      "passwordHash": "$2b$10$IGeDTHsIrmoEBhhzn7.5YulBEVlJi34L/ZgsckoH2jksppgi4RFFq"
+    }
+  ],
+  "analyses": [
+    {
+      "candidateName": "Kritagya Gupta",
+      "filename": "Resume.docx",
+      "rawText": "Kritagya Gupta\n\n +91-738-971-2071 |  kritagyagupta48@gmail.com |  LinkedIn |  GitHub\n\nEducation\n\nShri Shankaracharya Technical Campus\tBhilai, Chhattisgarh, India\n\nBachelor of Engineering in Computer Engineering\tSep 2023 – Present\n\nRelevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems\n\nTechnical Skills\n\nProgramming Languages: Python, C, C++, JavaScript, SQL Web Technologies: HTML, CSS, React.js, Node.js, Express.js Database Systems: MySQL, MongoDB, Firebase\n\nTools & Frameworks: Git, GitHub, VS Code, Linux, Docker, REST APIs\n\nCore Competencies: Data Structures & Algorithms, Object-Oriented Programming, System Design, Problem Solving\n\nExperience\n\nMarket Research Analyst\tFeb 2025 – Apr 2025\n\nTo-Let Globe\tRemote\n\nAnalyzed end-user usage analytics and data workflows for real estate web solutions, designing data pipelines and interactive visualizations to guide technical product decisions.\n\nCollaborated with cross-functional teams to develop market entry strategies, presenting findings to stakeholders through data visualizations and detailed reports\n\nCERTIFICATE \n\nAWS Solutions Architecture Job Simulation - Forage (Aug 2025)\n\nDeloitte Cyber Job Simulation - Forage (Sep 2025)\n\nTata Cybersecurity Analyst Job Simulation - Forage (Sep 2025)\n\nProjects\n\nSkillSwap - Peer Skill Exchange Platform\t               2026\n\nTechnologies: React.js, Node.js, Express.js, Firebase| https://skill-swap0.netlify.app/\n\nDeveloped a responsive full-stack web application with user authentication, RESTful API design, and database integration\n\nImplemented efficient algorithms to optimize query performance, reducing response time by 40%\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nResume Analyzer Web Application\t               2026\n\nTechnologies: MERN Stack, React, Node.js, Express, MongoDB, Tailwind CSS, REST APIs.|\n\nEngineered an automated ATS parsing engine using Node.js and Express to extract keywords and evaluate resume metrics with sub-200ms processing latency. \n\nImplemented Tailwind CSS UI components integrated with MongoDB schemas for custom analysis reports.\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nData Structures & Algorithms Practice\tOngoing\n\nTechnologies: Java, Python\n\nSolved 200+ algorithmic problems on platforms like LeetCode and HackerRank, focusing on optimization and time complexity\n\nImplemented advanced data structures including trees, graphs, heaps, and hash tables from scratch\n\nMastered dynamic programming, graph algorithms, and greedy algorithms through consistent practice\n\nAchievements & Leadership\n\nProblem Solving: Ranked in top 20% on competitive programming platforms through consistent algorithmic practice Academic Excellence: Maintained strong academic performance while actively engaging in hands-on projects and internships\n\nTechnical Communication: Presented technical projects and research findings to academic and professional audiences",
+      "jobDescriptionPasted": "",
+      "atsScore": 93,
+      "metricBreakdown": {
+        "formatting": 88,
+        "keywords": 95,
+        "impactAndMetrics": 74,
+        "relevance": 82,
+        "completeness": 86
+      },
+      "summary": "Analysis complete for Kritagya Gupta. Profile displays strong foundational technical skill density across 11 key domain tools. Recommended adding higher metric density to experience section.",
+      "extractedSkills": [
+        {
+          "category": "Technical Core",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": "Advanced",
+              "importance": 76
+            },
+            {
+              "name": "NODE.JS",
+              "level": "Advanced",
+              "importance": 86
+            },
+            {
+              "name": "EXPRESS",
+              "level": "Advanced",
+              "importance": 84
+            },
+            {
+              "name": "PYTHON",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "JAVA",
+              "level": "Advanced",
+              "importance": 79
+            },
+            {
+              "name": "SQL",
+              "level": "Advanced",
+              "importance": 86
+            },
+            {
+              "name": "MONGODB",
+              "level": "Advanced",
+              "importance": 78
+            },
+            {
+              "name": "DOCKER",
+              "level": "Advanced",
+              "importance": 76
+            },
+            {
+              "name": "AWS",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "GIT",
+              "level": "Advanced",
+              "importance": 81
+            },
+            {
+              "name": "REST API",
+              "level": "Advanced",
+              "importance": 86
+            }
+          ]
+        },
+        {
+          "category": "Professional Competencies",
+          "skills": [
+            {
+              "name": "System Architecture",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "Cross-functional Collaboration",
+              "level": "Expert",
+              "importance": 92
+            },
+            {
+              "name": "Performance Optimization",
+              "level": "Intermediate",
+              "importance": 80
+            }
+          ]
+        }
+      ],
+      "extractedEducation": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "State University",
+          "year": "2018 - 2022",
+          "gpaOrHonors": "3.8 GPA"
+        }
+      ],
+      "extractedExperience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Technology Solutions Inc",
+          "duration": "2022 - Present",
+          "achievements": [
+            "Engineered highly responsive web client using modern frontend stack, reducing page load latency by 42%.",
+            "Collaborated in an agile team of 8 engineers delivering weekly feature iterations to 100k+ active users."
+          ],
+          "actionVerbsCount": 6
+        }
+      ],
+      "extractedProjects": [
+        {
+          "name": "Distributed Cloud Dashboard",
+          "description": "Real-time telemetry monitor built with React and WebSocket server.",
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "metrics": "Used by 5,000+ developer accounts"
+        }
+      ],
+      "extractedCertifications": [
+        {
+          "title": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "year": "2024"
+        }
+      ],
+      "aiSuggestions": [
+        {
+          "id": "fallback-sug-1",
+          "type": "critical",
+          "section": "Impact Metrics",
+          "title": "Add numerical metrics to experience achievements",
+          "issue": "Several accomplishment statements describe tasks rather than quantified business outcomes.",
+          "recommendation": "Incorporate revenue metrics, efficiency percentages, team size, or user reach into bullet points.",
+          "exampleBeforeAfter": {
+            "before": "Improved app performance and updated dependencies.",
+            "after": "Boosted client render throughput by 45% and reduced initial bundle load from 2.4MB to 890KB."
+          }
+        },
+        {
+          "id": "fallback-sug-2",
+          "type": "warning",
+          "section": "Formatting",
+          "title": "ATS Parser Section Headers",
+          "issue": "Ensure clear standard section headers like \"Work Experience\" and \"Technical Skills\".",
+          "recommendation": "Avoid unconventional decorative symbols or icons in headers to guarantee 100% ATS parser readability."
+        }
+      ],
+      "id": "analysis-1785502452196-n2xz3",
+      "userId": "user-1785499583571",
+      "createdAt": "2026-07-31T12:54:12.196Z",
+      "versionTag": "v1.0 - Initial Scan"
+    },
+    {
+      "candidateName": "Kritagya Gupta",
+      "filename": "Resume.docx",
+      "rawText": "Kritagya Gupta\n\n +91-738-971-2071 |  kritagyagupta48@gmail.com |  LinkedIn |  GitHub\n\nEducation\n\nShri Shankaracharya Technical Campus\tBhilai, Chhattisgarh, India\n\nBachelor of Engineering in Computer Engineering\tSep 2023 – Present\n\nRelevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems\n\nTechnical Skills\n\nProgramming Languages: Python, C, C++, JavaScript, SQL Web Technologies: HTML, CSS, React.js, Node.js, Express.js Database Systems: MySQL, MongoDB, Firebase\n\nTools & Frameworks: Git, GitHub, VS Code, Linux, Docker, REST APIs\n\nCore Competencies: Data Structures & Algorithms, Object-Oriented Programming, System Design, Problem Solving\n\nExperience\n\nMarket Research Analyst\tFeb 2025 – Apr 2025\n\nTo-Let Globe\tRemote\n\nAnalyzed end-user usage analytics and data workflows for real estate web solutions, designing data pipelines and interactive visualizations to guide technical product decisions.\n\nCollaborated with cross-functional teams to develop market entry strategies, presenting findings to stakeholders through data visualizations and detailed reports\n\nCERTIFICATE \n\nAWS Solutions Architecture Job Simulation - Forage (Aug 2025)\n\nDeloitte Cyber Job Simulation - Forage (Sep 2025)\n\nTata Cybersecurity Analyst Job Simulation - Forage (Sep 2025)\n\nProjects\n\nSkillSwap - Peer Skill Exchange Platform\t               2026\n\nTechnologies: React.js, Node.js, Express.js, Firebase| https://skill-swap0.netlify.app/\n\nDeveloped a responsive full-stack web application with user authentication, RESTful API design, and database integration\n\nImplemented efficient algorithms to optimize query performance, reducing response time by 40%\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nResume Analyzer Web Application\t               2026\n\nTechnologies: MERN Stack, React, Node.js, Express, MongoDB, Tailwind CSS, REST APIs.|\n\nEngineered an automated ATS parsing engine using Node.js and Express to extract keywords and evaluate resume metrics with sub-200ms processing latency. \n\nImplemented Tailwind CSS UI components integrated with MongoDB schemas for custom analysis reports.\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nData Structures & Algorithms Practice\tOngoing\n\nTechnologies: Java, Python\n\nSolved 200+ algorithmic problems on platforms like LeetCode and HackerRank, focusing on optimization and time complexity\n\nImplemented advanced data structures including trees, graphs, heaps, and hash tables from scratch\n\nMastered dynamic programming, graph algorithms, and greedy algorithms through consistent practice\n\nAchievements & Leadership\n\nProblem Solving: Ranked in top 20% on competitive programming platforms through consistent algorithmic practice Academic Excellence: Maintained strong academic performance while actively engaging in hands-on projects and internships\n\nTechnical Communication: Presented technical projects and research findings to academic and professional audiences",
+      "jobDescriptionPasted": "",
+      "atsScore": 93,
+      "metricBreakdown": {
+        "formatting": 88,
+        "keywords": 95,
+        "impactAndMetrics": 74,
+        "relevance": 82,
+        "completeness": 86
+      },
+      "summary": "Analysis complete for Kritagya Gupta. Profile displays strong foundational technical skill density across 11 key domain tools. Recommended adding higher metric density to experience section.",
+      "extractedSkills": [
+        {
+          "category": "Technical Core",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": "Advanced",
+              "importance": 94
+            },
+            {
+              "name": "NODE.JS",
+              "level": "Advanced",
+              "importance": 75
+            },
+            {
+              "name": "EXPRESS",
+              "level": "Advanced",
+              "importance": 84
+            },
+            {
+              "name": "PYTHON",
+              "level": "Advanced",
+              "importance": 90
+            },
+            {
+              "name": "JAVA",
+              "level": "Advanced",
+              "importance": 78
+            },
+            {
+              "name": "SQL",
+              "level": "Advanced",
+              "importance": 91
+            },
+            {
+              "name": "MONGODB",
+              "level": "Advanced",
+              "importance": 80
+            },
+            {
+              "name": "DOCKER",
+              "level": "Advanced",
+              "importance": 84
+            },
+            {
+              "name": "AWS",
+              "level": "Advanced",
+              "importance": 83
+            },
+            {
+              "name": "GIT",
+              "level": "Advanced",
+              "importance": 83
+            },
+            {
+              "name": "REST API",
+              "level": "Advanced",
+              "importance": 92
+            }
+          ]
+        },
+        {
+          "category": "Professional Competencies",
+          "skills": [
+            {
+              "name": "System Architecture",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "Cross-functional Collaboration",
+              "level": "Expert",
+              "importance": 92
+            },
+            {
+              "name": "Performance Optimization",
+              "level": "Intermediate",
+              "importance": 80
+            }
+          ]
+        }
+      ],
+      "extractedEducation": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "State University",
+          "year": "2018 - 2022",
+          "gpaOrHonors": "3.8 GPA"
+        }
+      ],
+      "extractedExperience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Technology Solutions Inc",
+          "duration": "2022 - Present",
+          "achievements": [
+            "Engineered highly responsive web client using modern frontend stack, reducing page load latency by 42%.",
+            "Collaborated in an agile team of 8 engineers delivering weekly feature iterations to 100k+ active users."
+          ],
+          "actionVerbsCount": 6
+        }
+      ],
+      "extractedProjects": [
+        {
+          "name": "Distributed Cloud Dashboard",
+          "description": "Real-time telemetry monitor built with React and WebSocket server.",
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "metrics": "Used by 5,000+ developer accounts"
+        }
+      ],
+      "extractedCertifications": [
+        {
+          "title": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "year": "2024"
+        }
+      ],
+      "aiSuggestions": [
+        {
+          "id": "fallback-sug-1",
+          "type": "critical",
+          "section": "Impact Metrics",
+          "title": "Add numerical metrics to experience achievements",
+          "issue": "Several accomplishment statements describe tasks rather than quantified business outcomes.",
+          "recommendation": "Incorporate revenue metrics, efficiency percentages, team size, or user reach into bullet points.",
+          "exampleBeforeAfter": {
+            "before": "Improved app performance and updated dependencies.",
+            "after": "Boosted client render throughput by 45% and reduced initial bundle load from 2.4MB to 890KB."
+          }
+        },
+        {
+          "id": "fallback-sug-2",
+          "type": "warning",
+          "section": "Formatting",
+          "title": "ATS Parser Section Headers",
+          "issue": "Ensure clear standard section headers like \"Work Experience\" and \"Technical Skills\".",
+          "recommendation": "Avoid unconventional decorative symbols or icons in headers to guarantee 100% ATS parser readability."
+        }
+      ],
+      "id": "analysis-1785502420169-3bzrj",
+      "userId": "user-1785499583571",
+      "createdAt": "2026-07-31T12:53:40.169Z",
+      "versionTag": "v1.0 - Initial Scan"
+    },
+    {
+      "candidateName": "Kritagya Gupta",
+      "filename": "Resume.docx",
+      "rawText": "Kritagya Gupta\n\n +91-738-971-2071 |  kritagyagupta48@gmail.com |  LinkedIn |  GitHub\n\nEducation\n\nShri Shankaracharya Technical Campus\tBhilai, Chhattisgarh, India\n\nBachelor of Engineering in Computer Engineering\tSep 2023 – Present\n\nRelevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems\n\nTechnical Skills\n\nProgramming Languages: Python, C, C++, JavaScript, SQL Web Technologies: HTML, CSS, React.js, Node.js, Express.js Database Systems: MySQL, MongoDB, Firebase\n\nTools & Frameworks: Git, GitHub, VS Code, Linux, Docker, REST APIs\n\nCore Competencies: Data Structures & Algorithms, Object-Oriented Programming, System Design, Problem Solving\n\nExperience\n\nMarket Research Analyst\tFeb 2025 – Apr 2025\n\nTo-Let Globe\tRemote\n\nAnalyzed end-user usage analytics and data workflows for real estate web solutions, designing data pipelines and interactive visualizations to guide technical product decisions.\n\nCollaborated with cross-functional teams to develop market entry strategies, presenting findings to stakeholders through data visualizations and detailed reports\n\nCERTIFICATE \n\nAWS Solutions Architecture Job Simulation - Forage (Aug 2025)\n\nDeloitte Cyber Job Simulation - Forage (Sep 2025)\n\nTata Cybersecurity Analyst Job Simulation - Forage (Sep 2025)\n\nProjects\n\nSkillSwap - Peer Skill Exchange Platform\t               2026\n\nTechnologies: React.js, Node.js, Express.js, Firebase| https://skill-swap0.netlify.app/\n\nDeveloped a responsive full-stack web application with user authentication, RESTful API design, and database integration\n\nImplemented efficient algorithms to optimize query performance, reducing response time by 40%\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nResume Analyzer Web Application\t               2026\n\nTechnologies: MERN Stack, React, Node.js, Express, MongoDB, Tailwind CSS, REST APIs.|\n\nEngineered an automated ATS parsing engine using Node.js and Express to extract keywords and evaluate resume metrics with sub-200ms processing latency. \n\nImplemented Tailwind CSS UI components integrated with MongoDB schemas for custom analysis reports.\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nData Structures & Algorithms Practice\tOngoing\n\nTechnologies: Java, Python\n\nSolved 200+ algorithmic problems on platforms like LeetCode and HackerRank, focusing on optimization and time complexity\n\nImplemented advanced data structures including trees, graphs, heaps, and hash tables from scratch\n\nMastered dynamic programming, graph algorithms, and greedy algorithms through consistent practice\n\nAchievements & Leadership\n\nProblem Solving: Ranked in top 20% on competitive programming platforms through consistent algorithmic practice Academic Excellence: Maintained strong academic performance while actively engaging in hands-on projects and internships\n\nTechnical Communication: Presented technical projects and research findings to academic and professional audiences",
+      "jobDescriptionPasted": "",
+      "atsScore": 93,
+      "metricBreakdown": {
+        "formatting": 88,
+        "keywords": 95,
+        "impactAndMetrics": 74,
+        "relevance": 82,
+        "completeness": 86
+      },
+      "summary": "Analysis complete for Kritagya Gupta. Profile displays strong foundational technical skill density across 11 key domain tools. Recommended adding higher metric density to experience section.",
+      "extractedSkills": [
+        {
+          "category": "Technical Core",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": "Advanced",
+              "importance": 81
+            },
+            {
+              "name": "NODE.JS",
+              "level": "Advanced",
+              "importance": 80
+            },
+            {
+              "name": "EXPRESS",
+              "level": "Advanced",
+              "importance": 78
+            },
+            {
+              "name": "PYTHON",
+              "level": "Advanced",
+              "importance": 85
+            },
+            {
+              "name": "JAVA",
+              "level": "Advanced",
+              "importance": 90
+            },
+            {
+              "name": "SQL",
+              "level": "Advanced",
+              "importance": 83
+            },
+            {
+              "name": "MONGODB",
+              "level": "Advanced",
+              "importance": 76
+            },
+            {
+              "name": "DOCKER",
+              "level": "Advanced",
+              "importance": 75
+            },
+            {
+              "name": "AWS",
+              "level": "Advanced",
+              "importance": 93
+            },
+            {
+              "name": "GIT",
+              "level": "Advanced",
+              "importance": 92
+            },
+            {
+              "name": "REST API",
+              "level": "Advanced",
+              "importance": 85
+            }
+          ]
+        },
+        {
+          "category": "Professional Competencies",
+          "skills": [
+            {
+              "name": "System Architecture",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "Cross-functional Collaboration",
+              "level": "Expert",
+              "importance": 92
+            },
+            {
+              "name": "Performance Optimization",
+              "level": "Intermediate",
+              "importance": 80
+            }
+          ]
+        }
+      ],
+      "extractedEducation": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "State University",
+          "year": "2018 - 2022",
+          "gpaOrHonors": "3.8 GPA"
+        }
+      ],
+      "extractedExperience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Technology Solutions Inc",
+          "duration": "2022 - Present",
+          "achievements": [
+            "Engineered highly responsive web client using modern frontend stack, reducing page load latency by 42%.",
+            "Collaborated in an agile team of 8 engineers delivering weekly feature iterations to 100k+ active users."
+          ],
+          "actionVerbsCount": 6
+        }
+      ],
+      "extractedProjects": [
+        {
+          "name": "Distributed Cloud Dashboard",
+          "description": "Real-time telemetry monitor built with React and WebSocket server.",
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "metrics": "Used by 5,000+ developer accounts"
+        }
+      ],
+      "extractedCertifications": [
+        {
+          "title": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "year": "2024"
+        }
+      ],
+      "aiSuggestions": [
+        {
+          "id": "fallback-sug-1",
+          "type": "critical",
+          "section": "Impact Metrics",
+          "title": "Add numerical metrics to experience achievements",
+          "issue": "Several accomplishment statements describe tasks rather than quantified business outcomes.",
+          "recommendation": "Incorporate revenue metrics, efficiency percentages, team size, or user reach into bullet points.",
+          "exampleBeforeAfter": {
+            "before": "Improved app performance and updated dependencies.",
+            "after": "Boosted client render throughput by 45% and reduced initial bundle load from 2.4MB to 890KB."
+          }
+        },
+        {
+          "id": "fallback-sug-2",
+          "type": "warning",
+          "section": "Formatting",
+          "title": "ATS Parser Section Headers",
+          "issue": "Ensure clear standard section headers like \"Work Experience\" and \"Technical Skills\".",
+          "recommendation": "Avoid unconventional decorative symbols or icons in headers to guarantee 100% ATS parser readability."
+        }
+      ],
+      "id": "analysis-1785499784608-oyj5s",
+      "userId": "user-1785499583571",
+      "createdAt": "2026-07-31T12:09:44.608Z",
+      "versionTag": "v1.0 - Initial Scan"
+    },
+    {
+      "candidateName": "Kritagya Gupta",
+      "filename": "Resume.docx",
+      "rawText": "Kritagya Gupta\n\n +91-738-971-2071 |  kritagyagupta48@gmail.com |  LinkedIn |  GitHub\n\nEducation\n\nShri Shankaracharya Technical Campus\tBhilai, Chhattisgarh, India\n\nBachelor of Engineering in Computer Engineering\tSep 2023 – Present\n\nRelevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems\n\nTechnical Skills\n\nProgramming Languages: Python, C, C++, JavaScript, SQL Web Technologies: HTML, CSS, React.js, Node.js, Express.js Database Systems: MySQL, MongoDB, Firebase\n\nTools & Frameworks: Git, GitHub, VS Code, Linux, Docker, REST APIs\n\nCore Competencies: Data Structures & Algorithms, Object-Oriented Programming, System Design, Problem Solving\n\nExperience\n\nMarket Research Analyst\tFeb 2025 – Apr 2025\n\nTo-Let Globe\tRemote\n\nAnalyzed end-user usage analytics and data workflows for real estate web solutions, designing data pipelines and interactive visualizations to guide technical product decisions.\n\nCollaborated with cross-functional teams to develop market entry strategies, presenting findings to stakeholders through data visualizations and detailed reports\n\nCERTIFICATE \n\nAWS Solutions Architecture Job Simulation - Forage (Aug 2025)\n\nDeloitte Cyber Job Simulation - Forage (Sep 2025)\n\nTata Cybersecurity Analyst Job Simulation - Forage (Sep 2025)\n\nProjects\n\nSkillSwap - Peer Skill Exchange Platform\t               2026\n\nTechnologies: React.js, Node.js, Express.js, Firebase| https://skill-swap0.netlify.app/\n\nDeveloped a responsive full-stack web application with user authentication, RESTful API design, and database integration\n\nImplemented efficient algorithms to optimize query performance, reducing response time by 40%\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nResume Analyzer Web Application\t               2026\n\nTechnologies: MERN Stack, React, Node.js, Express, MongoDB, Tailwind CSS, REST APIs.|\n\nEngineered an automated ATS parsing engine using Node.js and Express to extract keywords and evaluate resume metrics with sub-200ms processing latency. \n\nImplemented Tailwind CSS UI components integrated with MongoDB schemas for custom analysis reports.\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nData Structures & Algorithms Practice\tOngoing\n\nTechnologies: Java, Python\n\nSolved 200+ algorithmic problems on platforms like LeetCode and HackerRank, focusing on optimization and time complexity\n\nImplemented advanced data structures including trees, graphs, heaps, and hash tables from scratch\n\nMastered dynamic programming, graph algorithms, and greedy algorithms through consistent practice\n\nAchievements & Leadership\n\nProblem Solving: Ranked in top 20% on competitive programming platforms through consistent algorithmic practice Academic Excellence: Maintained strong academic performance while actively engaging in hands-on projects and internships\n\nTechnical Communication: Presented technical projects and research findings to academic and professional audiences",
+      "jobDescriptionPasted": "",
+      "atsScore": 93,
+      "metricBreakdown": {
+        "formatting": 88,
+        "keywords": 95,
+        "impactAndMetrics": 74,
+        "relevance": 82,
+        "completeness": 86
+      },
+      "summary": "Analysis complete for Kritagya Gupta. Profile displays strong foundational technical skill density across 11 key domain tools. Recommended adding higher metric density to experience section.",
+      "extractedSkills": [
+        {
+          "category": "Technical Core",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": "Advanced",
+              "importance": 92
+            },
+            {
+              "name": "NODE.JS",
+              "level": "Advanced",
+              "importance": 94
+            },
+            {
+              "name": "EXPRESS",
+              "level": "Advanced",
+              "importance": 91
+            },
+            {
+              "name": "PYTHON",
+              "level": "Advanced",
+              "importance": 84
+            },
+            {
+              "name": "JAVA",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "SQL",
+              "level": "Advanced",
+              "importance": 80
+            },
+            {
+              "name": "MONGODB",
+              "level": "Advanced",
+              "importance": 90
+            },
+            {
+              "name": "DOCKER",
+              "level": "Advanced",
+              "importance": 86
+            },
+            {
+              "name": "AWS",
+              "level": "Advanced",
+              "importance": 90
+            },
+            {
+              "name": "GIT",
+              "level": "Advanced",
+              "importance": 92
+            },
+            {
+              "name": "REST API",
+              "level": "Advanced",
+              "importance": 75
+            }
+          ]
+        },
+        {
+          "category": "Professional Competencies",
+          "skills": [
+            {
+              "name": "System Architecture",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "Cross-functional Collaboration",
+              "level": "Expert",
+              "importance": 92
+            },
+            {
+              "name": "Performance Optimization",
+              "level": "Intermediate",
+              "importance": 80
+            }
+          ]
+        }
+      ],
+      "extractedEducation": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "State University",
+          "year": "2018 - 2022",
+          "gpaOrHonors": "3.8 GPA"
+        }
+      ],
+      "extractedExperience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Technology Solutions Inc",
+          "duration": "2022 - Present",
+          "achievements": [
+            "Engineered highly responsive web client using modern frontend stack, reducing page load latency by 42%.",
+            "Collaborated in an agile team of 8 engineers delivering weekly feature iterations to 100k+ active users."
+          ],
+          "actionVerbsCount": 6
+        }
+      ],
+      "extractedProjects": [
+        {
+          "name": "Distributed Cloud Dashboard",
+          "description": "Real-time telemetry monitor built with React and WebSocket server.",
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "metrics": "Used by 5,000+ developer accounts"
+        }
+      ],
+      "extractedCertifications": [
+        {
+          "title": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "year": "2024"
+        }
+      ],
+      "aiSuggestions": [
+        {
+          "id": "fallback-sug-1",
+          "type": "critical",
+          "section": "Impact Metrics",
+          "title": "Add numerical metrics to experience achievements",
+          "issue": "Several accomplishment statements describe tasks rather than quantified business outcomes.",
+          "recommendation": "Incorporate revenue metrics, efficiency percentages, team size, or user reach into bullet points.",
+          "exampleBeforeAfter": {
+            "before": "Improved app performance and updated dependencies.",
+            "after": "Boosted client render throughput by 45% and reduced initial bundle load from 2.4MB to 890KB."
+          }
+        },
+        {
+          "id": "fallback-sug-2",
+          "type": "warning",
+          "section": "Formatting",
+          "title": "ATS Parser Section Headers",
+          "issue": "Ensure clear standard section headers like \"Work Experience\" and \"Technical Skills\".",
+          "recommendation": "Avoid unconventional decorative symbols or icons in headers to guarantee 100% ATS parser readability."
+        }
+      ],
+      "id": "analysis-1785499602001-4u3mv",
+      "userId": "user-1785499583571",
+      "createdAt": "2026-07-31T12:06:42.001Z",
+      "versionTag": "v1.0 - Initial Scan"
+    },
+    {
+      "candidateName": "Kritagya Gupta",
+      "filename": "Resume.docx",
+      "rawText": "Kritagya Gupta\n\n +91-738-971-2071 |  kritagyagupta48@gmail.com |  LinkedIn |  GitHub\n\nEducation\n\nShri Shankaracharya Technical Campus\tBhilai, Chhattisgarh, India\n\nBachelor of Engineering in Computer Engineering\tSep 2023 – Present\n\nRelevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems\n\nTechnical Skills\n\nProgramming Languages: Python, C, C++, JavaScript, SQL Web Technologies: HTML, CSS, React.js, Node.js, Express.js Database Systems: MySQL, MongoDB, Firebase\n\nTools & Frameworks: Git, GitHub, VS Code, Linux, Docker, REST APIs\n\nCore Competencies: Data Structures & Algorithms, Object-Oriented Programming, System Design, Problem Solving\n\nExperience\n\nMarket Research Analyst\tFeb 2025 – Apr 2025\n\nTo-Let Globe\tRemote\n\nAnalyzed end-user usage analytics and data workflows for real estate web solutions, designing data pipelines and interactive visualizations to guide technical product decisions.\n\nCollaborated with cross-functional teams to develop market entry strategies, presenting findings to stakeholders through data visualizations and detailed reports\n\nCERTIFICATE \n\nAWS Solutions Architecture Job Simulation - Forage (Aug 2025)\n\nDeloitte Cyber Job Simulation - Forage (Sep 2025)\n\nTata Cybersecurity Analyst Job Simulation - Forage (Sep 2025)\n\nProjects\n\nSkillSwap - Peer Skill Exchange Platform\t               2026\n\nTechnologies: React.js, Node.js, Express.js, Firebase| https://skill-swap0.netlify.app/\n\nDeveloped a responsive full-stack web application with user authentication, RESTful API design, and database integration\n\nImplemented efficient algorithms to optimize query performance, reducing response time by 40%\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nResume Analyzer Web Application\t               2026\n\nTechnologies: MERN Stack, React, Node.js, Express, MongoDB, Tailwind CSS, REST APIs.|\n\nEngineered an automated ATS parsing engine using Node.js and Express to extract keywords and evaluate resume metrics with sub-200ms processing latency. \n\nImplemented Tailwind CSS UI components integrated with MongoDB schemas for custom analysis reports.\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nData Structures & Algorithms Practice\tOngoing\n\nTechnologies: Java, Python\n\nSolved 200+ algorithmic problems on platforms like LeetCode and HackerRank, focusing on optimization and time complexity\n\nImplemented advanced data structures including trees, graphs, heaps, and hash tables from scratch\n\nMastered dynamic programming, graph algorithms, and greedy algorithms through consistent practice\n\nAchievements & Leadership\n\nProblem Solving: Ranked in top 20% on competitive programming platforms through consistent algorithmic practice Academic Excellence: Maintained strong academic performance while actively engaging in hands-on projects and internships\n\nTechnical Communication: Presented technical projects and research findings to academic and professional audiences",
+      "jobDescriptionPasted": "",
+      "atsScore": 93,
+      "metricBreakdown": {
+        "formatting": 88,
+        "keywords": 95,
+        "impactAndMetrics": 74,
+        "relevance": 82,
+        "completeness": 86
+      },
+      "summary": "Analysis complete for Kritagya Gupta. Profile displays strong foundational technical skill density across 11 key domain tools. Recommended adding higher metric density to experience section.",
+      "extractedSkills": [
+        {
+          "category": "Technical Core",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": "Advanced",
+              "importance": 76
+            },
+            {
+              "name": "NODE.JS",
+              "level": "Advanced",
+              "importance": 81
+            },
+            {
+              "name": "EXPRESS",
+              "level": "Advanced",
+              "importance": 80
+            },
+            {
+              "name": "PYTHON",
+              "level": "Advanced",
+              "importance": 85
+            },
+            {
+              "name": "JAVA",
+              "level": "Advanced",
+              "importance": 78
+            },
+            {
+              "name": "SQL",
+              "level": "Advanced",
+              "importance": 84
+            },
+            {
+              "name": "MONGODB",
+              "level": "Advanced",
+              "importance": 85
+            },
+            {
+              "name": "DOCKER",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "AWS",
+              "level": "Advanced",
+              "importance": 84
+            },
+            {
+              "name": "GIT",
+              "level": "Advanced",
+              "importance": 86
+            },
+            {
+              "name": "REST API",
+              "level": "Advanced",
+              "importance": 77
+            }
+          ]
+        },
+        {
+          "category": "Professional Competencies",
+          "skills": [
+            {
+              "name": "System Architecture",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "Cross-functional Collaboration",
+              "level": "Expert",
+              "importance": 92
+            },
+            {
+              "name": "Performance Optimization",
+              "level": "Intermediate",
+              "importance": 80
+            }
+          ]
+        }
+      ],
+      "extractedEducation": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "State University",
+          "year": "2018 - 2022",
+          "gpaOrHonors": "3.8 GPA"
+        }
+      ],
+      "extractedExperience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Technology Solutions Inc",
+          "duration": "2022 - Present",
+          "achievements": [
+            "Engineered highly responsive web client using modern frontend stack, reducing page load latency by 42%.",
+            "Collaborated in an agile team of 8 engineers delivering weekly feature iterations to 100k+ active users."
+          ],
+          "actionVerbsCount": 6
+        }
+      ],
+      "extractedProjects": [
+        {
+          "name": "Distributed Cloud Dashboard",
+          "description": "Real-time telemetry monitor built with React and WebSocket server.",
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "metrics": "Used by 5,000+ developer accounts"
+        }
+      ],
+      "extractedCertifications": [
+        {
+          "title": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "year": "2024"
+        }
+      ],
+      "aiSuggestions": [
+        {
+          "id": "fallback-sug-1",
+          "type": "critical",
+          "section": "Impact Metrics",
+          "title": "Add numerical metrics to experience achievements",
+          "issue": "Several accomplishment statements describe tasks rather than quantified business outcomes.",
+          "recommendation": "Incorporate revenue metrics, efficiency percentages, team size, or user reach into bullet points.",
+          "exampleBeforeAfter": {
+            "before": "Improved app performance and updated dependencies.",
+            "after": "Boosted client render throughput by 45% and reduced initial bundle load from 2.4MB to 890KB."
+          }
+        },
+        {
+          "id": "fallback-sug-2",
+          "type": "warning",
+          "section": "Formatting",
+          "title": "ATS Parser Section Headers",
+          "issue": "Ensure clear standard section headers like \"Work Experience\" and \"Technical Skills\".",
+          "recommendation": "Avoid unconventional decorative symbols or icons in headers to guarantee 100% ATS parser readability."
+        }
+      ],
+      "id": "analysis-1785499547848-y98w4",
+      "userId": "user-demo",
+      "createdAt": "2026-07-31T12:05:47.848Z",
+      "versionTag": "v1.0 - Initial Scan"
+    },
+    {
+      "candidateName": "Kritagya Gupta",
+      "filename": "Resume.docx",
+      "rawText": "Kritagya Gupta\n\n +91-738-971-2071 |  kritagyagupta48@gmail.com |  LinkedIn |  GitHub\n\nEducation\n\nShri Shankaracharya Technical Campus\tBhilai, Chhattisgarh, India\n\nBachelor of Engineering in Computer Engineering\tSep 2023 – Present\n\nRelevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Computer Networks, Operating Systems\n\nTechnical Skills\n\nProgramming Languages: Python, C, C++, JavaScript, SQL Web Technologies: HTML, CSS, React.js, Node.js, Express.js Database Systems: MySQL, MongoDB, Firebase\n\nTools & Frameworks: Git, GitHub, VS Code, Linux, Docker, REST APIs\n\nCore Competencies: Data Structures & Algorithms, Object-Oriented Programming, System Design, Problem Solving\n\nExperience\n\nMarket Research Analyst\tFeb 2025 – Apr 2025\n\nTo-Let Globe\tRemote\n\nAnalyzed end-user usage analytics and data workflows for real estate web solutions, designing data pipelines and interactive visualizations to guide technical product decisions.\n\nCollaborated with cross-functional teams to develop market entry strategies, presenting findings to stakeholders through data visualizations and detailed reports\n\nCERTIFICATE \n\nAWS Solutions Architecture Job Simulation - Forage (Aug 2025)\n\nDeloitte Cyber Job Simulation - Forage (Sep 2025)\n\nTata Cybersecurity Analyst Job Simulation - Forage (Sep 2025)\n\nProjects\n\nSkillSwap - Peer Skill Exchange Platform\t               2026\n\nTechnologies: React.js, Node.js, Express.js, Firebase| https://skill-swap0.netlify.app/\n\nDeveloped a responsive full-stack web application with user authentication, RESTful API design, and database integration\n\nImplemented efficient algorithms to optimize query performance, reducing response time by 40%\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nResume Analyzer Web Application\t               2026\n\nTechnologies: MERN Stack, React, Node.js, Express, MongoDB, Tailwind CSS, REST APIs.|\n\nEngineered an automated ATS parsing engine using Node.js and Express to extract keywords and evaluate resume metrics with sub-200ms processing latency. \n\nImplemented Tailwind CSS UI components integrated with MongoDB schemas for custom analysis reports.\n\nDesigned and deployed scalable backend architecture using Node.js and Express, handling concurrent user requests\n\nData Structures & Algorithms Practice\tOngoing\n\nTechnologies: Java, Python\n\nSolved 200+ algorithmic problems on platforms like LeetCode and HackerRank, focusing on optimization and time complexity\n\nImplemented advanced data structures including trees, graphs, heaps, and hash tables from scratch\n\nMastered dynamic programming, graph algorithms, and greedy algorithms through consistent practice\n\nAchievements & Leadership\n\nProblem Solving: Ranked in top 20% on competitive programming platforms through consistent algorithmic practice Academic Excellence: Maintained strong academic performance while actively engaging in hands-on projects and internships\n\nTechnical Communication: Presented technical projects and research findings to academic and professional audiences",
+      "jobDescriptionPasted": "",
+      "atsScore": 93,
+      "metricBreakdown": {
+        "formatting": 88,
+        "keywords": 95,
+        "impactAndMetrics": 74,
+        "relevance": 82,
+        "completeness": 86
+      },
+      "summary": "Analysis complete for Kritagya Gupta. Profile displays strong foundational technical skill density across 11 key domain tools. Recommended adding higher metric density to experience section.",
+      "extractedSkills": [
+        {
+          "category": "Technical Core",
+          "skills": [
+            {
+              "name": "REACT",
+              "level": "Advanced",
+              "importance": 81
+            },
+            {
+              "name": "NODE.JS",
+              "level": "Advanced",
+              "importance": 89
+            },
+            {
+              "name": "EXPRESS",
+              "level": "Advanced",
+              "importance": 77
+            },
+            {
+              "name": "PYTHON",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "JAVA",
+              "level": "Advanced",
+              "importance": 75
+            },
+            {
+              "name": "SQL",
+              "level": "Advanced",
+              "importance": 81
+            },
+            {
+              "name": "MONGODB",
+              "level": "Advanced",
+              "importance": 94
+            },
+            {
+              "name": "DOCKER",
+              "level": "Advanced",
+              "importance": 79
+            },
+            {
+              "name": "AWS",
+              "level": "Advanced",
+              "importance": 87
+            },
+            {
+              "name": "GIT",
+              "level": "Advanced",
+              "importance": 87
+            },
+            {
+              "name": "REST API",
+              "level": "Advanced",
+              "importance": 75
+            }
+          ]
+        },
+        {
+          "category": "Professional Competencies",
+          "skills": [
+            {
+              "name": "System Architecture",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "Cross-functional Collaboration",
+              "level": "Expert",
+              "importance": 92
+            },
+            {
+              "name": "Performance Optimization",
+              "level": "Intermediate",
+              "importance": 80
+            }
+          ]
+        }
+      ],
+      "extractedEducation": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "State University",
+          "year": "2018 - 2022",
+          "gpaOrHonors": "3.8 GPA"
+        }
+      ],
+      "extractedExperience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Technology Solutions Inc",
+          "duration": "2022 - Present",
+          "achievements": [
+            "Engineered highly responsive web client using modern frontend stack, reducing page load latency by 42%.",
+            "Collaborated in an agile team of 8 engineers delivering weekly feature iterations to 100k+ active users."
+          ],
+          "actionVerbsCount": 6
+        }
+      ],
+      "extractedProjects": [
+        {
+          "name": "Distributed Cloud Dashboard",
+          "description": "Real-time telemetry monitor built with React and WebSocket server.",
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Node.js"
+          ],
+          "metrics": "Used by 5,000+ developer accounts"
+        }
+      ],
+      "extractedCertifications": [
+        {
+          "title": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "year": "2024"
+        }
+      ],
+      "aiSuggestions": [
+        {
+          "id": "fallback-sug-1",
+          "type": "critical",
+          "section": "Impact Metrics",
+          "title": "Add numerical metrics to experience achievements",
+          "issue": "Several accomplishment statements describe tasks rather than quantified business outcomes.",
+          "recommendation": "Incorporate revenue metrics, efficiency percentages, team size, or user reach into bullet points.",
+          "exampleBeforeAfter": {
+            "before": "Improved app performance and updated dependencies.",
+            "after": "Boosted client render throughput by 45% and reduced initial bundle load from 2.4MB to 890KB."
+          }
+        },
+        {
+          "id": "fallback-sug-2",
+          "type": "warning",
+          "section": "Formatting",
+          "title": "ATS Parser Section Headers",
+          "issue": "Ensure clear standard section headers like \"Work Experience\" and \"Technical Skills\".",
+          "recommendation": "Avoid unconventional decorative symbols or icons in headers to guarantee 100% ATS parser readability."
+        }
+      ],
+      "id": "analysis-1785499530148-abuqx",
+      "userId": "user-demo",
+      "createdAt": "2026-07-31T12:05:30.148Z",
+      "versionTag": "v1.0 - Initial Scan"
+    },
+    {
+      "id": "demo-analysis-1",
+      "userId": "user-demo",
+      "candidateName": "Elena Rostova",
+      "filename": "Elena_Rostova_FullStack_2026.pdf",
+      "rawText": "Elena Rostova. Full Stack Engineer with 5+ years experience building React, Node.js, and TypeScript web applications...",
+      "jobDescriptionPasted": "Senior Full Stack Engineer position at FinTech Corp. Requirements: React, TypeScript, Node.js, GraphQL, Redis, AWS, Kubernetes, CI/CD.",
+      "atsScore": 84,
+      "versionTag": "v2.1 - Post Review",
+      "metricBreakdown": {
+        "formatting": 92,
+        "keywords": 80,
+        "impactAndMetrics": 85,
+        "relevance": 82,
+        "completeness": 88
+      },
+      "summary": "Strong technical profile with excellent modern web architecture stack. Well-formatted structure with quantified metric achievements in recent roles. Minor gaps in cloud orchestration keywords (Kubernetes/AWS).",
+      "extractedSkills": [
+        {
+          "category": "Frontend Development",
+          "skills": [
+            {
+              "name": "React.js",
+              "level": "Expert",
+              "importance": 95
+            },
+            {
+              "name": "TypeScript",
+              "level": "Advanced",
+              "importance": 90
+            },
+            {
+              "name": "Tailwind CSS",
+              "level": "Expert",
+              "importance": 85
+            },
+            {
+              "name": "Next.js",
+              "level": "Advanced",
+              "importance": 80
+            }
+          ]
+        },
+        {
+          "category": "Backend & Systems",
+          "skills": [
+            {
+              "name": "Node.js",
+              "level": "Advanced",
+              "importance": 92
+            },
+            {
+              "name": "Express.js",
+              "level": "Advanced",
+              "importance": 88
+            },
+            {
+              "name": "REST APIs",
+              "level": "Expert",
+              "importance": 90
+            },
+            {
+              "name": "PostgreSQL",
+              "level": "Intermediate",
+              "importance": 75
+            }
+          ]
+        },
+        {
+          "category": "Tools & Cloud",
+          "skills": [
+            {
+              "name": "Docker",
+              "level": "Intermediate",
+              "importance": 70
+            },
+            {
+              "name": "Git / GitHub",
+              "level": "Expert",
+              "importance": 95
+            },
+            {
+              "name": "Jest / Vitest",
+              "level": "Advanced",
+              "importance": 82
+            }
+          ]
+        }
+      ],
+      "extractedEducation": [
+        {
+          "degree": "B.S. in Computer Science",
+          "institution": "University of Washington",
+          "year": "2017 - 2021",
+          "gpaOrHonors": "Magna Cum Laude (3.88 GPA)"
+        }
+      ],
+      "extractedExperience": [
+        {
+          "title": "Senior Frontend Developer",
+          "company": "Veloce Systems",
+          "duration": "2023 - Present",
+          "achievements": [
+            "Spearheaded design system overhaul reducing bundle size by 38% across 12 core web applications.",
+            "Engineered real-time data streaming dashboard using WebSockets handling 50k events/sec.",
+            "Mentored 4 junior developers and implemented rigid automated testing pipeline."
+          ],
+          "actionVerbsCount": 8
+        },
+        {
+          "title": "Software Engineer",
+          "company": "Apex Cloud Solutions",
+          "duration": "2021 - 2023",
+          "achievements": [
+            "Developed microservices in Node.js serving 1.2M monthly active API requests.",
+            "Optimized database queries decreasing average response latency from 320ms to 85ms."
+          ],
+          "actionVerbsCount": 5
+        }
+      ],
+      "extractedProjects": [
+        {
+          "name": "PulseAnalytics Platform",
+          "description": "Open-source web traffic monitor with privacy-focused lightweight telemetry client.",
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Node.js",
+            "ClickHouse"
+          ],
+          "metrics": "1,400+ GitHub Stars"
+        }
+      ],
+      "extractedCertifications": [
+        {
+          "title": "AWS Certified Developer Associate",
+          "issuer": "Amazon Web Services",
+          "year": "2024"
+        }
+      ],
+      "jdComparison": {
+        "jobTitle": "Senior Full Stack Engineer",
+        "companyName": "FinTech Corp",
+        "matchScore": 82,
+        "matchedKeywords": [
+          "React",
+          "TypeScript",
+          "Node.js",
+          "REST APIs",
+          "Docker",
+          "Testing"
+        ],
+        "missingKeywords": [
+          {
+            "keyword": "Kubernetes",
+            "importance": "Critical",
+            "contextSuggestion": "Mention container orchestration experience or helm charts deployment in your cloud section."
+          },
+          {
+            "keyword": "GraphQL",
+            "importance": "High",
+            "contextSuggestion": "Highlight any GraphQL query optimization or Apollo Client integration in project bullets."
+          },
+          {
+            "keyword": "Redis Caching",
+            "importance": "Medium",
+            "contextSuggestion": "Include caching strategies implemented at Apex Cloud Solutions."
+          }
+        ],
+        "roleRelevanceAnalysis": "Strong 82% overlap with required frontend & backend tools. Adding missing infrastructure keywords will boost match score above 90%."
+      },
+      "aiSuggestions": [
+        {
+          "id": "sug-1",
+          "type": "critical",
+          "section": "Experience",
+          "title": "Quantify impact in older positions",
+          "issue": "Bullet 1 under Apex Cloud lacks business impact metrics.",
+          "recommendation": "Specify user growth or efficiency gain percentage rather than stating general maintenance.",
+          "exampleBeforeAfter": {
+            "before": "Developed microservices in Node.js for backend.",
+            "after": "Engineered 8 fault-tolerant Node.js microservices, scaling backend capacity to 1.2M MAU with 99.98% uptime."
+          }
+        },
+        {
+          "id": "sug-2",
+          "type": "warning",
+          "section": "Skills",
+          "title": "Group Cloud Infrastructure keywords",
+          "issue": "Cloud deployment tools are scattered across miscellaneous sections.",
+          "recommendation": "Create a dedicated \"DevOps & Cloud Architecture\" category in your skills section for ATS parsers."
+        }
+      ],
+      "createdAt": "2026-07-29T11:56:47.823Z"
+    }
+  ]
+}
