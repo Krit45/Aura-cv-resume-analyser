@@ -1,4 +1,4 @@
-#  Aura Cv
+#  Aura CV
 
 ### AI-Powered Resume Analysis & Career Optimization Platform
 
